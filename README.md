@@ -1,9 +1,10 @@
-<img align="center" alt="Coding" width="100%" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1129684/retina_1708x683_cover-programming-a-robot-an-introductory-tutorial-b4ecdc608c18b5e580a62afff498de9b.png">
+<img align="center" alt="Coding" width="100%" height="300" src="https://e0.pxfuel.com/wallpapers/188/993/desktop-wallpaper-github.jpg">
+
 
 <h1 align="center">Hi 👋, I'm Thilina Karunarathne</h1>
 <h3 align="center">I consistently strive to ensure that the assistance I offer is the most satisfactory and effective solution</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilinanuwankarunarathne" alt="thilinanuwankarunarathne" /></a> </p>
+
 
 - 🔭 I’m currently working on **Smart Tution**
 
@@ -15,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/thilina-karunarathne-131036232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thilina-karunarathne-131036232" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21806021/thilina-karunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21806021/thilina-karunarathne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//thilina-karunarathne-131036232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/thilina-karunarathne-131036232" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21806021/thilina-karunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/21806021/thilina-karunarathne" height="30" width="40" /></a>
 <a href="https://fb.com/thilina karunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilina karunarathne" height="30" width="40" /></a>
 <a href="https://medium.com/@thilinanuwankarunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thilinanuwankarunarathne" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nuwankarunarath2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nuwankarunarath2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nuwankarunarath2?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nuwankarunarath2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinanuwankarunarathne&show_icons=true&locale=en" alt="thilinanuwankarunarathne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinanuwankarunarathne&" alt="thilinanuwankarunarathne" /></p>
+
